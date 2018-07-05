@@ -1,0 +1,2 @@
+# vue-scaffold
+pure version
